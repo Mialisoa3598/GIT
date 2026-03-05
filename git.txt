@@ -5,3 +5,6 @@ Commit : snapshot etat du projet a un moment donner.
 4. push 
 5. pull/fetch
 
+1 git init
+
+
