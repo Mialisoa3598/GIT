@@ -1,0 +1,7 @@
+Commit : snapshot etat du projet a un moment donner.
+1. status
+2. add
+3. commit
+4. push 
+5. pull/fetch
+
